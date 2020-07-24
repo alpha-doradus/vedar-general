@@ -1,6 +1,7 @@
 # Vedar
 Proyecto Hackathon Uniandes 2020 del equipo Alpha Doradus.
-![](images/logo.png)
+
+<img src="images/logo.png" width="40%">
 
 ## Integrantes del equipo
 
@@ -34,10 +35,17 @@ Para el desarrollo de Vedar se hará un posible uso de las siguientes tecnologí
 ## Prototipo de la plataforma
 
 ### Pantalla de clase
-![](images/1.png)
+
+<img src="images/1.png" width="80%">
+
 ### Perfil de usuario
-![](images/2.png)
+
+<img src="images/2.png" width="80%">
+
 ### Registro de usuario
-![](images/3.png)
+
+<img src="images/3.png" width="80%">
+
 ### Landing page
-![](images/4.png)
+
+<img src="images/4.png" width="80%">
