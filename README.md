@@ -33,9 +33,10 @@ Para el desarrollo de Vedar se hará un posible uso de las siguientes tecnologí
 ## Prototipo de la plataforma
 
 ### Pantalla de clase
-
+![](images/1.png)
 ### Perfil de usuario
-
+![](images/2.png)
 ### Registro de usuario
-
+![](images/3.png)
 ### Landing page
+![](images/4.png)
