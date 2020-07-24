@@ -1,5 +1,6 @@
 # Vedar
 Proyecto Hackathon Uniandes 2020 del equipo Alpha Doradus.
+![](images/logo.png)
 
 ## Integrantes del equipo
 
