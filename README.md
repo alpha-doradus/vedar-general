@@ -26,6 +26,7 @@ Vedar es una plataforma de videollamadas interactiva, amigable, y eficaz especia
 - Generar un ambiente de clase y compañerismo al tener avatares en todo momento.
 - Brindar mayor expresividad remota.
 - Ofrecer una sensación de cercanía.
+- Unificar las herramientas necesarias para la virtualidad (Correos, Whatsapp, Videollamadas, Tareas, Material, Notas).
 
 ## Tech Stack
 Para el desarrollo de Vedar se hará un posible uso de las siguientes tecnologías: 
