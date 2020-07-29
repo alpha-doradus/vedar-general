@@ -5,7 +5,7 @@ Proyecto Hackathon Uniandes 2020 del equipo Alpha Doradus.
 
 Vedar es una plataforma de videollamadas interactiva, amigable, y eficaz especializada en el sector educativo. Esta plataforma permite cerrar las brechas entre la virtualidad y la presencialidad de las clases al proveer alternativas que usan la realidad aumentada y la detección de gestos como principal medio de interacción.
 
-<img src="images/logo.png" width="40%">
+<img src="https://github.com/Alpha-Doradus/vedar-general/blob/master/images/logo.png?raw=true" width="40%">
 
 ## Objetivos
 
@@ -29,19 +29,19 @@ Para el desarrollo de Vedar se hará un posible uso de las siguientes tecnologí
 
 ### Pantalla de clase
 
-<img src="images/1.png" width="80%">
+<img src="https://raw.githubusercontent.com/Alpha-Doradus/vedar-general/master/images/1.png" width="80%">
 
 ### Perfil de usuario
 
-<img src="images/2.png" width="80%">
+<img src="https://raw.githubusercontent.com/Alpha-Doradus/vedar-general/master/images/2.png" width="80%">
 
 ### Registro de usuario
 
-<img src="images/3.png" width="80%">
+<img src="https://raw.githubusercontent.com/Alpha-Doradus/vedar-general/master/images/3.png" width="80%">
 
 ### Landing page
 
-<img src="images/4.png" width="80%">
+<img src="https://raw.githubusercontent.com/Alpha-Doradus/vedar-general/master/images/4.png" width="80%">
 
 ## Integrantes del equipo
 
