@@ -27,6 +27,42 @@ Para el desarrollo de Vedar se hará un posible uso de las siguientes tecnologí
 
 ## Prototipo de la plataforma
 
+### Landing Page
+
+<img src="https://raw.githubusercontent.com/Alpha-Doradus/vedar-general/master/images/VedAR - Home.jpg" width="80%">
+
+### Login Page
+
+<img src="https://raw.githubusercontent.com/Alpha-Doradus/vedar-general/master/images/VedAR - Login.jpg" width="80%">
+
+### Register de Usuario
+
+<img src="https://raw.githubusercontent.com/Alpha-Doradus/vedar-general/master/images/VedAR - Register.jpg" width="80%">
+
+### Perfil de Usuario
+
+<img src="https://raw.githubusercontent.com/Alpha-Doradus/vedar-general/master/images/VedAR - User.jpg" width="80%">
+
+### Configuración Perfil de Usuario
+
+<img src="https://raw.githubusercontent.com/Alpha-Doradus/vedar-general/master/images/VedAR - Settings.jpg" width="80%">
+
+### Amigos de Usuario
+
+<img src="https://raw.githubusercontent.com/Alpha-Doradus/vedar-general/master/images/VedAR - Friends.jpg" width="80%">
+
+### Mensajes de Usuario
+
+<img src="https://raw.githubusercontent.com/Alpha-Doradus/vedar-general/master/images/VedAR - Message.jpg" width="80%">
+
+### Pantalla de Clase
+
+<img src="https://raw.githubusercontent.com/Alpha-Doradus/vedar-general/master/images/VedAR - Board.jpg" width="80%">
+
+### Avatar de Usuario
+
+<img src="https://raw.githubusercontent.com/Alpha-Doradus/vedar-general/master/images/VedAR - Student.jpg" width="80%">
+
 ### Pantalla de clase
 
 <img src="https://raw.githubusercontent.com/Alpha-Doradus/vedar-general/master/images/1.png" width="80%">
