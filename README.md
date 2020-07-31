@@ -63,21 +63,6 @@ Para el desarrollo de Vedar se hará un posible uso de las siguientes tecnologí
 
 <img src="https://raw.githubusercontent.com/Alpha-Doradus/vedar-general/master/images/VedAR - Student.jpg" width="80%">
 
-### Pantalla de clase
-
-<img src="https://raw.githubusercontent.com/Alpha-Doradus/vedar-general/master/images/1.png" width="80%">
-
-### Perfil de usuario
-
-<img src="https://raw.githubusercontent.com/Alpha-Doradus/vedar-general/master/images/2.png" width="80%">
-
-### Registro de usuario
-
-<img src="https://raw.githubusercontent.com/Alpha-Doradus/vedar-general/master/images/3.png" width="80%">
-
-### Landing page
-
-<img src="https://raw.githubusercontent.com/Alpha-Doradus/vedar-general/master/images/4.png" width="80%">
 
 ## Integrantes del equipo
 
