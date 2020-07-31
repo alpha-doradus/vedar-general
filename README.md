@@ -21,9 +21,14 @@ Vedar es una plataforma de videollamadas interactiva, amigable, y eficaz especia
 - Unificar las herramientas necesarias para la virtualidad (Correos, Whatsapp, Videollamadas, Tareas, Material, Notas).
 
 ## Tech Stack
-Para el desarrollo de Vedar se hará un posible uso de las siguientes tecnologías: 
-- OpenCV
+Para el desarrollo de VedAR se hará un posible uso de las siguientes tecnologías: 
 - Python
+- OpenCV
+- Flask
+- SQL
+- HTML5
+- CSS3
+- Bootstrap
 
 ## Prototipo de la plataforma
 
