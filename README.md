@@ -26,6 +26,7 @@ Para el desarrollo de VedAR se hará un posible uso de las siguientes tecnologí
 - OpenCV
 - Flask
 - Bcrypt
+- Jinja2
 - SQL
 - HTML5
 - CSS3
