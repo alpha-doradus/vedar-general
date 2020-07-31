@@ -30,6 +30,7 @@ Para el desarrollo de VedAR se hará un posible uso de las siguientes tecnologí
 - HTML5
 - CSS3
 - Bootstrap
+- AOS
 
 ## Prototipo de la plataforma
 
