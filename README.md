@@ -3,10 +3,9 @@
 Proyecto Hackathon Uniandes 2020 del equipo Alpha Doradus.
 VEDAR: Aumenta tu educación.
 
-
 ## Visión general
 
-Vedar es una plataforma de videollamadas interactiva, amigable, y eficaz especializada en el sector educativo. Esta plataforma permite cerrar las brechas entre la virtualidad y la presencialidad de las clases al proveer alternativas que usan la realidad aumentada y la detección de gestos como principal medio de interacción.
+Vedar es una plataforma de video llamadas interactiva, amigable, y eficaz, conectada con un sistema de centralización de información y contenido especializada en el sector educativo. Nace al evidenciar las problemáticas comunicativas, en la enseñanza y el aprendizaje virtual entre docentes y estudiantes, por causa de la pandemia. De esta manera, busca cerrar las brechas de las clases actuales al proveer herramientas tecnológicas que usan la realidad aumentada, modelación en 3D y la detección de gestos como principal medio de interacción.
 
 <img src="https://github.com/Alpha-Doradus/vedar-general/blob/master/images/logo.png?raw=true" width="40%">
 
