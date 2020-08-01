@@ -54,6 +54,8 @@ Existe una gran cantidad de dificultades evidenciadas en la adaptación del sist
 -Metodología de incentivos al realizar labores y que se van marcando conforme el cronograma especificado del curso.
 -Guía interactiva del uso de la plataforma, así como sugerencias de preparación y capacitación de la clase. Se debe contemplar la edad y capacidad tanto de docentes como alumnos al momento de utilizar la plataforma.
 
+## Equipo
+Vedar fue creado por un equipo de estudiantes que creen en la comunicación como base del aprendizaje, que le apuestan a una conexión fluida y en tiempo real que pueda brindar información relevante y confidente del lenguaje no verbal, que al ser traducidos por VEDAR generen una sensación de cercanía y confianza entre el estudiante y su profesor.
 
 
 ## Tech stack
