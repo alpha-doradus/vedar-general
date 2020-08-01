@@ -29,6 +29,22 @@ Vedar es una plataforma de video llamadas interactiva, amigable, y eficaz, conec
 -Calendario desplegable que esté vinculado con los documentos y fechas.
 -Firma de asistencia virtual
 
+## Calidad Idea
+Actualmente no existe en el mercado una plataforma educativa que permita unificar las diferentes herramientas esenciales para el aprendizaje, y que además proporcione un servidor de video llamadas en tiempo real que a través de la implementación de tecnología AR y 3D permita hacer un análisis de estadísticas enseñando a nuestro software cómo interpretar el lenguaje no verbal, para así fortalecer la comunicación de forma prudente y apropiada. La competencia más cercana es SPATIAL, sin embargo, no contemplan la unificación y centralización de plataformas y contenido.
+## Concepto
+
+En el mundo hay alrededor de 1370 millones de estudiantes y 60 millones de docentes que se vieron obligados a adaptarse a una nueva metodología de clases virtuales debido a la pandemia. La poca rapidez de adaptación en algunos lugares es la muestra de la obsoleta estructura académica, además de la falta de centralización de contenido, la poca conectividad entre plataformas, la sobre productividad y falta de organización. Estos son unos de los pocos problemas reales y actuales que Vedar busca mitigar con sus funcionalidades. 
+
+## Diseño
+
+Para el diseño de la marca se tuvo como pilar la educación, de allí su nombre Vedar (Video Llamadas-Educar) y también por de forma gráfica la letra 'V' de logo simula la silueta en perspectiva de un libro abierto como símbolo principal. Además, como solución principal a la problemática educativa se presenta la tecnología por lo que la letra 'V' elevada al cubo hace referencia a la realidad aumentada y modelos 3D. Finalmente, se implementó una paleta de colores enfocada una sugestión de concentración por el contenido visualizado. 
+
+## Implementación técnica
+
+La implementación cumplió gran parte de las expectativas y objetivos planteados al inicio por los desarrolladores, se completaron las funcionalidades principales del prototipo conceptual, dando como producto final un prototipo funcional a unos pasos de verificación para ser un MVP. A pesar de esto, y debido al poco tiempo, faltaron implementar herramientas secundarias que fueron mencionadas en el pitch presentado.
+
+
+
 
 ## Tech stack
 Para el desarrollo de VedAR se usaron las siguientes tecnologías:
