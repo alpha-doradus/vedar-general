@@ -26,7 +26,7 @@ Vedar es una plataforma de video llamadas interactiva, amigable, y eficaz, conec
 - Generar resumen y transcripción de la clase para los estudiantes.
 -Transcripción de resultados de clase tanto para los docentes como para los estudiantes.
 - Unificar las herramientas necesarias para la virtualidad (Correos, Whatsapp, Videollamadas, Tareas, Material, Notas).
--Calendario desplegable que esté vinculado con los documentos y fechas.
+-Calendario desplegable que esté vinculado con los documentos y fechas
 -Firma de asistencia virtual
 
 ## Calidad Idea
