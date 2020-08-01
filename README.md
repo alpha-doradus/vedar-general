@@ -25,9 +25,9 @@ Vedar es una plataforma de video llamadas interactiva, amigable, y eficaz, conec
 - Permite conocer los estudiantes que no se encuentran frente a la cámara al mostrar un avatar con apariencia de sueño.
 - Generar resumen y transcripción de la clase para los estudiantes.
 -Transcripción de resultados de clase tanto para los docentes como para los estudiantes.
-- Unificar las herramientas necesarias para la virtualidad (Correos, Whatsapp, Videollamadas, Tareas, Material, Notas).
--Calendario desplegable que esté vinculado con los documentos y fechas
 -Firma de asistencia virtual
+- Unificar las herramientas necesarias para la virtualidad (Correos, Whatsapp, Videollamadas, Tareas, Material, Notas).
+-Calendario desplegable que esté vinculado con los documentos y fechas.
 
 ## Calidad Idea
 Actualmente no existe en el mercado una plataforma educativa que permita unificar las diferentes herramientas esenciales para el aprendizaje, y que además proporcione un servidor de video llamadas en tiempo real que a través de la implementación de tecnología AR y 3D permita hacer un análisis de estadísticas enseñando a nuestro software cómo interpretar el lenguaje no verbal, para así fortalecer la comunicación de forma prudente y apropiada. La competencia más cercana es SPATIAL, sin embargo, no contemplan la unificación y centralización de plataformas y contenido.
