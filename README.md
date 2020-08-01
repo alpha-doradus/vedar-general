@@ -24,8 +24,7 @@ Vedar es una plataforma de video llamadas interactiva, amigable, y eficaz, conec
 -Mostrar adecuadamente las estadísticas para que tanto el docente como el estudiante puedan tener información relevante para un buen desarrollo del curso.
 - Permite conocer los estudiantes que no se encuentran frente a la cámara al mostrar un avatar con apariencia de sueño.
 - Generar resumen y transcripción de la clase para los estudiantes.
--Transcripción de resultados de clase tanto para los docentes como para los estudiantes.
--Firma de asistencia virtual
+-Firma de asistencia
 - Unificar las herramientas necesarias para la virtualidad (Correos, Whatsapp, Videollamadas, Tareas, Material, Notas).
 -Calendario desplegable que esté vinculado con los documentos y fechas.
 
