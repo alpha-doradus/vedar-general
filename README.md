@@ -9,18 +9,12 @@ Vedar es una plataforma de video llamadas interactiva, amigable, y eficaz, conec
 
 <img src="https://github.com/Alpha-Doradus/vedar-general/blob/master/images/logo.png?raw=true" width="40%">
 
-## Objetivos
-
-- Proveer un avatar para cada estudiante, sin mostrar el entorno propio de cada uno para respetar la privacidad de los usuarios.
-- Permite obtener un tablero virtual utilizando detección de gestos y su representación, en tiempo real, con objetos y modelos 3D de realidad aumentada.
-- Generar retroalimentación en tiempo real e inmediatamente, luego de la clase, producir resultados tanto para los docentes como para los estudiantes.
-- Generar datos, estadísticas y gráficas sobre la atención de los estudiantes para los docentes, al tener inteligencia artificial previamente entrenada para detectar caras de confusión.
-- Permite conocer los estudiantes que no se encuentran frente a la cámara al mostrar un avatar con apariencia de sueño.
-- Generar resumen y transcripción de la clase para los estudiantes.
-- Generar un ambiente de clase y compañerismo al tener avatares en todo momento.
-- Brindar mayor expresividad remota.
-- Ofrecer una sensación de cercanía.
-- Unificar las herramientas necesarias para la virtualidad (Correos, Whatsapp, Videollamadas, Tareas, Material, Notas).
+## Objetivos Principales
+- Ofrecer una sensación de cercanía entre los docentes y estudiantes.
+- Brindar mayor expresividad remota a través de la comunicación del lenguaje no verbal.
+- Generar un ambiente propio para el aprendizaje y que motive a la comunicación.
+- Generar retroalimentación en tiempo real a través de indicadores de 'Concentración de la Clase', 'Participación de los estudiantes' entre otros.
+-Centralizar la información y el contenido educativo para el docente y estudiante de forma organizada y amigable.
 
 ## Calidad Idea
 ## Concepto
