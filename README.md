@@ -43,6 +43,16 @@ Para el diseño de la marca se tuvo como pilar la educación, de allí su nombre
 
 La implementación cumplió gran parte de las expectativas y objetivos planteados al inicio por los desarrolladores, se completaron las funcionalidades principales del prototipo conceptual, dando como producto final un prototipo funcional a unos pasos de verificación para ser un MVP. A pesar de esto, y debido al poco tiempo, faltaron implementar herramientas secundarias que fueron mencionadas en el pitch presentado.
 
+## Impacto y futuro.
+Existe una gran cantidad de dificultades evidenciadas en la adaptación del sistema educativo, que permiten abrir muchas puertas a Vedar para implementar y mejorar la comunicación y el aprendizaje:
+
+- Queremos darle la oportunidad a cualquier persona de acceder a una clase virtual de la mejor calidad y que a través de tecnología de IA se pueda simular estar conectado sin tener acceso a internet sino a través de una llamada de voz que des encriptada por nuestra plataforma simula la clase.
+-Queremos hacer un catálogo de los lugares icónicos de la institución educativa para que ambos agentes no pierdan el sentido de pertenencia.
+- Facilitar el trabajo colaborativo en cuanto a la asignación salas, roles y tareas a realizar.
+
+- Parte del cambio en el aprendizaje es que el estudiante adquiere mucha responsabilidad para su proceso por lo que a veces el autoaprendizaje se dificulta. Por esto, se quiere dar la opción que la plataforma oriente tiempos de estudio o tiempo de realización de las tareas. 
+-Metodología de incentivos al realizar labores y que se van marcando conforme el cronograma especificado del curso.
+-Guía interactiva del uso de la plataforma, así como sugerencias de preparación y capacitación de la clase. Se debe contemplar la edad y capacidad tanto de docentes como alumnos al momento de utilizar la plataforma.
 
 
 
