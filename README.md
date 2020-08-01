@@ -16,11 +16,19 @@ Vedar es una plataforma de video llamadas interactiva, amigable, y eficaz, conec
 - Generar retroalimentación en tiempo real a través de indicadores de 'Concentración de la Clase', 'Participación de los estudiantes' entre otros.
 -Centralizar la información y el contenido educativo para el docente y estudiante de forma organizada y amigable.
 
-## Calidad Idea
-## Concepto
-## Diseño
-## Implementación técnica
-## Impacto y futuro.
+## Funcionalidades
+
+- Proveer un avatar para cada estudiante, sin mostrar el entorno propio de cada uno para respetar la privacidad de los usuarios.
+- Permite obtener un tablero virtual utilizando detección de gestos y su representación, en tiempo real, con objetos y modelos 3D de realidad aumentada.
+- Generar datos, estadísticas y gráficas sobre la atención de los estudiantes para los docentes, al tener inteligencia artificial previamente entrenada para detectar caras de confusión o comprensión del conocimiento.
+-Mostrar adecuadamente las estadísticas para que tanto el docente como el estudiante puedan tener información relevante para un buen desarrollo del curso.
+- Permite conocer los estudiantes que no se encuentran frente a la cámara al mostrar un avatar con apariencia de sueño.
+- Generar resumen y transcripción de la clase para los estudiantes.
+-Transcripción de resultados de clase tanto para los docentes como para los estudiantes.
+- Unificar las herramientas necesarias para la virtualidad (Correos, Whatsapp, Videollamadas, Tareas, Material, Notas).
+-Calendario desplegable que esté vinculado con los documentos y fechas.
+-Firma de asistencia virtual
+
 
 ## Tech stack
 Para el desarrollo de VedAR se usaron las siguientes tecnologías:
